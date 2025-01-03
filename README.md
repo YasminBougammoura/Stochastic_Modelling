@@ -1,4 +1,4 @@
-#Lorenz Dynamics
+# Lorenz Dynamics
 
 The present work plays with Lorenz chaotic equations by adding noise. 
 
